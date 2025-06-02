@@ -1,4 +1,7 @@
+/**
+Comment import cmd "using unity.sentis" as we are not using it in this fork
 using Unity.Sentis;
+*/
 using Unity.MLAgents.Inference;
 
 namespace Unity.MLAgents.Sensors
