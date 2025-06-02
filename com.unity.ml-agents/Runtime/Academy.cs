@@ -8,7 +8,10 @@ using Unity.MLAgents.Actuators;
 using Unity.MLAgents.Inference;
 using Unity.MLAgents.Policies;
 using Unity.MLAgents.SideChannels;
+/**
+Comment out sentis as we are not using it in this fork
 using Unity.Sentis;
+*/
 
 /**
  * Welcome to Unity Machine Learning Agents (ML-Agents).
