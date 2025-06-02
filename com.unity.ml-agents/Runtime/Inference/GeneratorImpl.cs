@@ -1,6 +1,10 @@
 using System.Collections.Generic;
 using System;
-using Unity.Sentis;
+/*
+Removed "using Unity.Sentis" import cmd
+“Fork without Sentis for Unity Exoskeleton Project” 
+*/
+
 using Unity.MLAgents.Inference.Utils;
 using Unity.MLAgents.Sensors;
 using static Unity.MLAgents.Inference.TensorProxy;
