@@ -1,4 +1,8 @@
-using Unity.Sentis;
+/*
+Removed "using Unity.Sentis" import cmd
+“Fork without Sentis for Unity Exoskeleton Project” 
+*/
+
 using System;
 using UnityEngine;
 using UnityEngine.Serialization;
