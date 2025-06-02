@@ -2,7 +2,10 @@ using System.Collections.Generic;
 using System.Linq;
 using Unity.MLAgents.Inference.Utils;
 using Unity.MLAgents.Actuators;
-using Unity.Sentis;
+/*
+Removed "using Unity.Sentis" import cmd
+“Fork without Sentis for Unity Exoskeleton Project” 
+*/
 using UnityEngine;
 
 namespace Unity.MLAgents.Inference
