@@ -1,7 +1,11 @@
 using System;
 using System.Collections.Generic;
 using System.Linq;
-using Unity.Sentis;
+/*
+Removed "using Unity.Sentis" import cmd
+“Fork without Sentis for Unity Exoskeleton Project” 
+*/
+
 using FailedCheck = Unity.MLAgents.Inference.SentisModelParamLoader.FailedCheck;
 
 namespace Unity.MLAgents.Inference
