@@ -1,4 +1,7 @@
-using Unity.Sentis;
+/*
+Removed "using Unity.Sentis" import cmd
+“Fork without Sentis for Unity Exoskeleton Project” 
+*/
 
 namespace Unity.MLAgents.Inference
 {
