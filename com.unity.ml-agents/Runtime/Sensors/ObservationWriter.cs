@@ -1,10 +1,16 @@
 using System;
 using System.Collections.Generic;
-using Unity.Sentis;
+/*
+Removed "using Unity.Sentis;" import cmd
+“Fork without Sentis for Unity Exoskeleton Project” 
+*/
+
 using Unity.MLAgents.Inference;
 using UnityEngine;
-using DeviceType = Unity.Sentis.DeviceType;
-
+/*
+Removed "using DeviceType = Unity.Sentis.DeviceType;" import cmd
+“Fork without Sentis for Unity Exoskeleton Project” 
+*/
 namespace Unity.MLAgents.Sensors
 {
     /// <summary>
