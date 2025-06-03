@@ -14,6 +14,7 @@ namespace Unity.MLAgents.Policies
     /// <summary>
     /// Where to perform inference.
     /// </summary>
+    /*
     public enum InferenceDevice
     {
         /// <summary>
@@ -125,7 +126,7 @@ namespace Unity.MLAgents.Policies
                 );
             }
         }
-
+        */
         /// <inheritdoc />
         public ref readonly ActionBuffers DecideAction()
         {
